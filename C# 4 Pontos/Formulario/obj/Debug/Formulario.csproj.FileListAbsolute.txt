@@ -1,0 +1,45 @@
+E:\Executaveis liberados\Formulario\Formulario\bin\Debug\Formulario.exe.config
+E:\Executaveis liberados\Formulario\Formulario\bin\Debug\Formulario.exe
+E:\Executaveis liberados\Formulario\Formulario\bin\Debug\Formulario.pdb
+E:\Executaveis liberados\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Formulario\Formulario\obj\Debug\Formulario.Principal.resources
+E:\Executaveis liberados\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+E:\Executaveis liberados\Formulario\Formulario\obj\Debug\Formulario.Tela1.resources
+E:\Executaveis liberados\Formulario\Formulario\obj\Debug\Formulario.Tela2.resources
+E:\Executaveis liberados\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Formulario\Formulario\obj\Debug\Formulario.exe
+E:\Executaveis liberados\Formulario\Formulario\obj\Debug\Formulario.pdb
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\bin\Debug\Formulario.exe.config
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.exe
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.pdb
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.Principal.resources
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.Tela1.resources
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.Tela2.resources
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\bin\Debug\Formulario.exe
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\bin\Debug\Formulario.pdb
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.Tela3.resources
+E:\EXECUTAVEIS LIBERADOS\Formulario\Formulario\Formulario\obj\Debug\Formulario.Tela4.resources
+E:\EXECUTAVEIS LIBERADOS\C# 4 Pontos\Formulario\bin\Debug\Formulario.exe.config
+E:\EXECUTAVEIS LIBERADOS\C# 4 Pontos\Formulario\obj\Debug\Formulario.exe
+E:\EXECUTAVEIS LIBERADOS\C# 4 Pontos\Formulario\obj\Debug\Formulario.pdb
+E:\EXECUTAVEIS LIBERADOS\C# 4 Pontos\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+D:\C# 4 Pontos\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+D:\C# 4 Pontos\Formulario\obj\Debug\Formulario.exe
+D:\C# 4 Pontos\Formulario\obj\Debug\Formulario.pdb
+D:\C# 4 Pontos\Formulario\bin\Debug\Formulario.exe.config
+E:\C# 4 Pontos\Formulario\bin\Debug\Formulario.exe.config
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.exe
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.pdb
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+E:\C# 4 Pontos\Formulario\bin\Debug\Formulario.exe
+E:\C# 4 Pontos\Formulario\bin\Debug\Formulario.pdb
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.Tela1.resources
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.Tela2.resources
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.Tela3.resources
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.Tela4.resources
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+E:\C# 4 Pontos\Formulario\obj\Debug\Formulario.Principal.resources
