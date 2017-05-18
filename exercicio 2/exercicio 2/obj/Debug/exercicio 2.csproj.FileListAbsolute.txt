@@ -1,0 +1,9 @@
+E:\Executaveis liberados\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe.config
+E:\executaveis liberados\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe
+E:\executaveis liberados\exercicio 2\exercicio 2\bin\Debug\exercicio 2.pdb
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Form1.resources
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Properties.Resources.resources
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csproj.GenerateResource.Cache
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio 2.exe
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio 2.pdb
